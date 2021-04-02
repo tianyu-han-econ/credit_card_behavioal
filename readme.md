@@ -4,6 +4,4 @@ This repository stores the Python code of structural estimation
 
 ## new
 
-something new
-##
-create conflict
+this is completely new branch!!!
